@@ -28,6 +28,7 @@ footer .footer a{
 }
 
 footer .footer div{
+  display: flex;
   color: red;
   font-weight: bold;
 }
