@@ -25,6 +25,17 @@ footer .footer a{
   border-color: gray;
 }
 
+footer .footer a:hover{
+display:block;
+    position:absolute;
+    top:-60px;
+    width:15em;
+    border:5px solid #0cf;
+    background-color:#cff; color:#000;
+    text-align: center;
+    padding:10px;
+  }
+
 footer .footer div{
   color: red;
   font-weight: bold;
