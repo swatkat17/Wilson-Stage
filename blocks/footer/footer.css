@@ -28,7 +28,7 @@ footer .footer a{
 }
 
 footer .footer div{
-  display: inline-block;
+  display: block;
   color: red;
   font-weight: bold;
 }
