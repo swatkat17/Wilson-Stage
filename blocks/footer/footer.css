@@ -26,10 +26,6 @@ footer .footer a{
 }
 
 footer .footer a:hover{
-display:block;
-    position:absolute;
-    top:-60px;
-    width:15em;
     border:5px solid #0cf;
     background-color:#cff; color:#000;
     text-align: center;
