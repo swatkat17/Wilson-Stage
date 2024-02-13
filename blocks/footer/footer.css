@@ -21,3 +21,7 @@ footer .footer a{
    border:none;
    color:white;
 }
+
+footer .footer div{
+  color: red;
+}
