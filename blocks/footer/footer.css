@@ -18,11 +18,11 @@ footer .footer p {
 footer .footer a{
   height:25px;
    width:75px;
-   border:2px solid;
+   border:1px solid;
    color:black;
   font-weight: normal;
   padding: 2px;
-  border-radius: 4px;
+  border-radius: 20px;
 }
 
 footer .footer div{
