@@ -16,8 +16,6 @@ footer .footer p {
 }
 
 footer .footer a{
-  height:50px;
-   width:75px;
    border:1px solid;
    color:black;
   font-weight: normal;
@@ -28,7 +26,6 @@ footer .footer a{
 }
 
 footer .footer div{
-  display: block;
   color: red;
   font-weight: bold;
 }
